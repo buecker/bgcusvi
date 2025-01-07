@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Boys and Girls Club of St Thomas St John",
+    "description": "",
+    "home_page_url": "https://bgcusvi.org",
+    "feed_url": "https://bgcusvi.org/feed.json",
+    "user_comment": "",
+    "icon": "https://bgcusvi.org/media/website/cropped-BGC_logo_white-1.png",
+    "author": {
+        "name": "BGCUSVI"
+    },
+    "items": [
+    ]
+}

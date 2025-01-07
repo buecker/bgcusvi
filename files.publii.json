@@ -1,0 +1,337 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "50576eb9ed673f0b020f3bb2f894a780"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "45df07ca245fc0e25f9938f995dfd0ee"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "94220f119044674b7663d7c550454968"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/bgcusvi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/bgcusvi/index.html",
+        "type": "file",
+        "md5": "8bb871a858dfe93cd0219d300a5b9cef"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "1c57e3004fb0f52921666498fbedc417"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "16da35829652e9cb15902901413f560a"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "36cb4cf13bade1f0d67ddf1fb5c6cea1"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/BGCSTTSTJBGCADec2016BarksdaleClub5354.jpg",
+        "type": "file",
+        "md5": "99dd66c31d0fc94efe6899bf9c31454a"
+    },
+    {
+        "path": "/media/posts/1/Screenshot-2024-12-29-at-12.47.24-PM.png",
+        "type": "file",
+        "md5": "0b7ba9f446bd061f6fff2ec0fd68ed26"
+    },
+    {
+        "path": "/media/posts/1/Screenshot-2024-12-29-at-12.49.59-PM.png",
+        "type": "file",
+        "md5": "39101f6ccd15b5aca5e94b6c5cb9594f"
+    },
+    {
+        "path": "/media/posts/1/cropped-BGCA-Great-Futures.jpg",
+        "type": "file",
+        "md5": "5849761688a7f1092b69a0c3b9329112"
+    },
+    {
+        "path": "/media/posts/1/donate.gif",
+        "type": "file",
+        "md5": "e20bd25b030640bb2cba8aa92c941bc9"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/BGCSTTSTJBGCADec2016BarksdaleClub5354-2xl.jpg",
+        "type": "file",
+        "md5": "2caf949464bc3c249893a15c3b305920"
+    },
+    {
+        "path": "/media/posts/1/responsive/BGCSTTSTJBGCADec2016BarksdaleClub5354-lg.jpg",
+        "type": "file",
+        "md5": "2caf949464bc3c249893a15c3b305920"
+    },
+    {
+        "path": "/media/posts/1/responsive/BGCSTTSTJBGCADec2016BarksdaleClub5354-md.jpg",
+        "type": "file",
+        "md5": "2c7484b8ac37011c3bc45894805991f6"
+    },
+    {
+        "path": "/media/posts/1/responsive/BGCSTTSTJBGCADec2016BarksdaleClub5354-sm.jpg",
+        "type": "file",
+        "md5": "88f6f26d32e38c0d1900b0c22a9b3f87"
+    },
+    {
+        "path": "/media/posts/1/responsive/BGCSTTSTJBGCADec2016BarksdaleClub5354-xl.jpg",
+        "type": "file",
+        "md5": "2caf949464bc3c249893a15c3b305920"
+    },
+    {
+        "path": "/media/posts/1/responsive/BGCSTTSTJBGCADec2016BarksdaleClub5354-xs.jpg",
+        "type": "file",
+        "md5": "e79d3ca19f8d71bb57dfb42bf1b05d5d"
+    },
+    {
+        "path": "/media/posts/1/responsive/Screenshot-2024-12-29-at-12.47.24-PM-2xl.png",
+        "type": "file",
+        "md5": "dad51166c288f1c2a6684c5456032d82"
+    },
+    {
+        "path": "/media/posts/1/responsive/Screenshot-2024-12-29-at-12.47.24-PM-lg.png",
+        "type": "file",
+        "md5": "13d05810a20e9ed5aeb8e5f399ede7da"
+    },
+    {
+        "path": "/media/posts/1/responsive/Screenshot-2024-12-29-at-12.47.24-PM-md.png",
+        "type": "file",
+        "md5": "123bda08a2ac43908aa872b3937fbd48"
+    },
+    {
+        "path": "/media/posts/1/responsive/Screenshot-2024-12-29-at-12.47.24-PM-sm.png",
+        "type": "file",
+        "md5": "3385a63b4d0a4f1dbe899ab63a84ff2f"
+    },
+    {
+        "path": "/media/posts/1/responsive/Screenshot-2024-12-29-at-12.47.24-PM-xl.png",
+        "type": "file",
+        "md5": "dad51166c288f1c2a6684c5456032d82"
+    },
+    {
+        "path": "/media/posts/1/responsive/Screenshot-2024-12-29-at-12.47.24-PM-xs.png",
+        "type": "file",
+        "md5": "58f906067e1c9964daa3a241178ece09"
+    },
+    {
+        "path": "/media/posts/1/responsive/Screenshot-2024-12-29-at-12.49.59-PM-2xl.png",
+        "type": "file",
+        "md5": "b898d3268620aabefecab59142e72469"
+    },
+    {
+        "path": "/media/posts/1/responsive/Screenshot-2024-12-29-at-12.49.59-PM-lg.png",
+        "type": "file",
+        "md5": "51a5cae67f31d02aa4dee567c01347e0"
+    },
+    {
+        "path": "/media/posts/1/responsive/Screenshot-2024-12-29-at-12.49.59-PM-md.png",
+        "type": "file",
+        "md5": "6555ce135a474850ac7d8c7b80c895d0"
+    },
+    {
+        "path": "/media/posts/1/responsive/Screenshot-2024-12-29-at-12.49.59-PM-sm.png",
+        "type": "file",
+        "md5": "9cd4c639d1a8e4c8689e2348790ab1b0"
+    },
+    {
+        "path": "/media/posts/1/responsive/Screenshot-2024-12-29-at-12.49.59-PM-xl.png",
+        "type": "file",
+        "md5": "95b6a3ff0e57bd138cc206bef7202f07"
+    },
+    {
+        "path": "/media/posts/1/responsive/Screenshot-2024-12-29-at-12.49.59-PM-xs.png",
+        "type": "file",
+        "md5": "a67ada6070330d5d85f4a0e99778dab7"
+    },
+    {
+        "path": "/media/posts/1/responsive/cropped-BGCA-Great-Futures-2xl.jpg",
+        "type": "file",
+        "md5": "564be032822bc1395d4f83839d4f51a0"
+    },
+    {
+        "path": "/media/posts/1/responsive/cropped-BGCA-Great-Futures-lg.jpg",
+        "type": "file",
+        "md5": "68ce1f7f0f67df8655ba9a9361e4fa9e"
+    },
+    {
+        "path": "/media/posts/1/responsive/cropped-BGCA-Great-Futures-md.jpg",
+        "type": "file",
+        "md5": "d3162733f24bad9350b2e1cc9443a640"
+    },
+    {
+        "path": "/media/posts/1/responsive/cropped-BGCA-Great-Futures-sm.jpg",
+        "type": "file",
+        "md5": "2560cad32907451e14ea7d157a4374c9"
+    },
+    {
+        "path": "/media/posts/1/responsive/cropped-BGCA-Great-Futures-xl.jpg",
+        "type": "file",
+        "md5": "d4e2fb8f78251725ef754be7d8b19077"
+    },
+    {
+        "path": "/media/posts/1/responsive/cropped-BGCA-Great-Futures-xs.jpg",
+        "type": "file",
+        "md5": "86c3f1b344edd9aca6e36b1f89017c04"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/cropped-BGC_logo_white-1.png",
+        "type": "file",
+        "md5": "6384af3c60dd869b9ac363127ff8fa91"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/cropped-BGC_logo_white-1-2xl.png",
+        "type": "file",
+        "md5": "ef352dd06017d0ef2478d9e289889ed3"
+    },
+    {
+        "path": "/media/website/responsive/cropped-BGC_logo_white-1-lg.png",
+        "type": "file",
+        "md5": "ef352dd06017d0ef2478d9e289889ed3"
+    },
+    {
+        "path": "/media/website/responsive/cropped-BGC_logo_white-1-md.png",
+        "type": "file",
+        "md5": "ef352dd06017d0ef2478d9e289889ed3"
+    },
+    {
+        "path": "/media/website/responsive/cropped-BGC_logo_white-1-sm.png",
+        "type": "file",
+        "md5": "ef352dd06017d0ef2478d9e289889ed3"
+    },
+    {
+        "path": "/media/website/responsive/cropped-BGC_logo_white-1-xl.png",
+        "type": "file",
+        "md5": "ef352dd06017d0ef2478d9e289889ed3"
+    },
+    {
+        "path": "/media/website/responsive/cropped-BGC_logo_white-1-xs.png",
+        "type": "file",
+        "md5": "ef352dd06017d0ef2478d9e289889ed3"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "7c3af0749d273efefdc64e4c7237d186"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "cca09b068a9fde34061ed7c06cf07a06"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "1c68edc37723a5a49133966d1f8a514f"
+    }
+]
